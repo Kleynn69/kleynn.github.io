@@ -1,3 +1,13 @@
+.profile-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 32px 32px 32px;
+  background: #202534;
+  min-width: 350px;
+  max-width: 450px;
+}
 .profile-pic-container {
   width: 120px;
   height: 120px;
@@ -5,39 +15,15 @@
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 0 0 5px #23273a, 0 4px 18px rgba(0,0,0,0.18);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.icon-title,
-.icon-section,
-.icon-label,
-.icon.email,
-.icon.location,
-.icon.social {
-  width: 16px;
-  height: 16px;
-  min-width: 16px;
-  min-height: 16px;
-  max-width: 16px;
-  max-height: 16px;
-  vertical-align: middle;
-  margin-right: 6px;
-  margin-bottom: 0;
-  opacity: 0.7;
-}
-.profile-title .icon-title {
-  margin-right: 4px;
-}
-.profile-social .icon.social {
-  width: 18px;
-  height: 18px;
-  margin-right: 0;
-  opacity: 0.7;
-}
-.skills-label .icon-label {
-  margin-right: 4px;
-}
-.profile-contact .icon {
-  margin-right: 7px;
-}
-.timeline-title .icon-timeline {
-  display: none;
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  object-position: center 60%; /* This centers and crops to half-body */
+  display: block;
+  margin: 0 auto;
 }
