@@ -9,6 +9,7 @@
 .icon-title,
 .icon-section,
 .icon-label,
+.icon-timeline,
 .icon.email,
 .icon.location,
 .icon.social {
@@ -35,9 +36,9 @@
 .skills-label .icon-label {
   margin-right: 4px;
 }
+.timeline-title .icon-timeline {
+  margin-right: 4px;
+}
 .profile-contact .icon {
   margin-right: 7px;
-}
-.timeline-title .icon-timeline {
-  display: none;
 }
