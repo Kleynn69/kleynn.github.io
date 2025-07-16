@@ -1,4 +1,4 @@
-# Bryan O'neil Velonza Cano - Portfolio
+# Bryan O'neil Cano - Portfolio
 
 Welcome to my personal portfolio! This site showcases my skills, work experience, education, certifications, and more.
 
@@ -24,4 +24,4 @@ This site is ready to be published as a [GitHub Pages](https://pages.github.com/
 - Email: ianvelonza@gmail.com
 - Mobile: +63 998 455 9448
 
-&copy; 2025 Bryan O'neil Velonza Cano
+&copy; 2025 Bryan O'neil Cano
