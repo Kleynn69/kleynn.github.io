@@ -7,7 +7,6 @@ document.querySelectorAll('.profile-social a').forEach(el => {
   });
 });
 
-// Potential for light/dark mode toggle, modal, etc.
 // Example: Show alert on skill tag click
 document.querySelectorAll('.skill-tag').forEach(tag => {
   tag.addEventListener('click', () => {
